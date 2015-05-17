@@ -17,8 +17,8 @@
 <stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_START_MODE" value="remote"/>
 <booleanAttribute key="org.eclipse.cdt.launch.DEBUGGER_STOP_AT_MAIN" value="true"/>
 <stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_STOP_AT_MAIN_SYMBOL" value="main"/>
-<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="Debug/06_struct"/>
-<stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="06_struct"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="Debug/MRT1-C_06_Struct"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="MRT1-C_06_Struct"/>
 <booleanAttribute key="org.eclipse.cdt.launch.PROJECT_BUILD_CONFIG_AUTO_ATTR" value="false"/>
 <stringAttribute key="org.eclipse.cdt.launch.PROJECT_BUILD_CONFIG_ID_ATTR" value=""/>
 <booleanAttribute key="org.eclipse.cdt.launch.remote.RemoteCDSFDebuggerTab.DEFAULTS_SET" value="true"/>
@@ -26,9 +26,9 @@
 <stringAttribute key="org.eclipse.debug.core.ATTR_GDBSERVER_PORT" value="2345"/>
 <stringAttribute key="org.eclipse.debug.core.ATTR_PRERUN_CMDS" value="chmod -R 777 /home/pi/remote-debugging"/>
 <booleanAttribute key="org.eclipse.debug.core.ATTR_SKIP_DOWNLOAD_TO_TARGET" value="false"/>
-<stringAttribute key="org.eclipse.debug.core.ATTR_TARGET_PATH" value="/home/pi/remote-debugging/06_struct"/>
+<stringAttribute key="org.eclipse.debug.core.ATTR_TARGET_PATH" value="/home/pi/remote-debugging/MRT1-C_06_Struct"/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/06_struct"/>
+<listEntry value="/MRT1-C_06_Struct"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="4"/>
